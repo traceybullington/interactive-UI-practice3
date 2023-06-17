@@ -1,7 +1,7 @@
 //
 //  ContentView.swift
 //  interactive UI practice3
-//
+//SImple interactive UI
 //  Created by scholar on 4/12/23.
 //
 
